@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/portfolio/suyogvmuley/](https://www.crio.do/portfolio/suyogvmuley/)
+- 👨‍💻 All of my projects are available at [https://qcart-frontend-suyog.netlify.app/](https://www.crio.do/portfolio/suyogvmuley/)
 
 - 💬 Ask me about **Linux, Javascript, HTML, CSS, Bootstap, NodeJs, ExpressJs, MongoDB, React, Nginx/Apache Server, Github, Server Configurations**
 
