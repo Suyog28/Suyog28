@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyog Muley</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyog28" alt="suyog28" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development and Programing**
 
@@ -7,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://qcart-frontend-suyog.netlify.app/](https://www.crio.do/portfolio/suyogvmuley/)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 - 💬 Ask me about **Linux, Javascript, HTML, CSS, Bootstap, NodeJs, ExpressJs, MongoDB, React, Nginx/Apache Server, Github, Server Configurations**
 
 - 📫 How to reach me **suyogvmuley@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/suyog-muley/overlay/1635479875535/single-media-viewer/](https://www.linkedin.com/in/suyog-muley/overlay/1635479875535/single-media-viewer/)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyog28&show_icons=true&locale=en" alt="suyog28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyog28&" alt="suyog28" /></p>
+
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Suyog28/Suyog28/blob/main/devcard.svg" width="400" alt="Suyog Muley Dev Card"/></a>
 <!---
