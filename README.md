@@ -12,12 +12,12 @@
 - 💬 Ask me about **Linux, Javascript, HTML, CSS, Bootstap, NodeJs, ExpressJs, MongoDB, React, Nginx/Apache Server, Github, Server Configurations**
 
 -Projects - 
--Drum-Kit -https://drum-kit-by-suyogmuley.netlify.app/
--Advance CSS Image Gallary- https://advance-image-gallary-by-suyogmuley.netlify.app/
--Parallax Website- https://parallaxeffect-suyogmuley.netlify.app/
-AdvanceCard- https://advance-card-suyogmuley.netlify.app/
-Codehelp Webpage- https://codehelp-webpage-suyogmuley.netlify.app/
-Portfolio Website - https://portfolio-website-suyogmuley.netlify.app/
+- Drum-Kit -https://drum-kit-by-suyogmuley.netlify.app/
+- Advance CSS Image Gallary- https://advance-image-gallary-by-suyogmuley.netlify.app/
+- Parallax Website- https://parallaxeffect-suyogmuley.netlify.app/
+- AdvanceCard- https://advance-card-suyogmuley.netlify.app/
+- Codehelp Webpage- https://codehelp-webpage-suyogmuley.netlify.app/
+- Portfolio Website - https://portfolio-website-suyogmuley.netlify.app/
 - 📫 How to reach me **suyogvmuley@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing](https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing)
