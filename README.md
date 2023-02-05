@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing](https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing)
 - Portfolio - https://suyog28.github.io/
-- 💬 Ask me about **Linux, Javascript, HTML, CSS, Bootstap, NodeJs, ExpressJs, MongoDB, React, Nginx/Apache Server, Github, Server Configurations**
+- 💬 Ask me about **Linux, Javascript, HTML, CSS, Bootstap, tailwind UI, NodeJs, ExpressJs, MongoDB, React, Nginx/Apache Server, Github, Server Configurations**
 
 -Projects - 
 - Drum-Kit -https://drum-kit-by-suyogmuley.netlify.app/
