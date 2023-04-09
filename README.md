@@ -22,6 +22,7 @@
 - Simon Game -https://simongamebysuyogmuley.netlify.app/
 - Top-Courses-React-Project- https://top-courses-react-project.netlify.app/
 - Plan-With-Love-React-Project- https://plan-with-love-react-project.netlify.app/
+- Testimonials React Projects- https://testimonial-react-projects.netlify.app/
 - 📫 How to reach me **suyogvmuley@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing](https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing)
