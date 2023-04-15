@@ -24,6 +24,7 @@
 - Plan-With-Love-React-Project- https://plan-with-love-react-project.netlify.app/
 - Testimonials React Projects- https://testimonial-react-projects.netlify.app/
 - UserDataForm React Projects- https://userdatafromreactjs.netlify.app/
+- Study Notion React Project- https://studynotionreactproject.netlify.app/
 - 📫 How to reach me **suyogvmuley@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing](https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing)
