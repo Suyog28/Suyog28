@@ -12,6 +12,7 @@
 - 💬 Ask me about **Linux, Javascript, HTML, CSS, Bootstap, tailwind UI, NodeJs, ExpressJs, MongoDB, React, Nginx/Apache Server, Github, Server Configurations**
 
 -Projects - 
+- Calculator - https://100-javascript-q.vercel.app/
 - Drum-Kit -https://drum-kit-by-suyogmuley.netlify.app/ and https://java-script30-mastery.vercel.app/ 
 - Advance CSS Image Gallary- https://advance-image-gallary-by-suyogmuley.netlify.app/
 - Parallax Website- https://parallaxeffect-suyogmuley.netlify.app/
