@@ -31,7 +31,7 @@
 - Nike Clone - https://nike-clone-indol.vercel.app/
 - 📫 How to reach me **suyogvmuley@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing](https://drive.google.com/file/d/1AIfgBldZ9b2kJ0OFbwBtxKhHhF64tkIZ/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/12TDvmkSsAjwyVRC9WNc6CPOSmUxS3RM-/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
