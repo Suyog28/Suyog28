@@ -11,6 +11,7 @@
 - 💬 Ask me about **Linux, Javascript, HTML, CSS, Bootstap, tailwind UI, React, Nginx/Apache Server, Github, Server Configurations, Azure**
 
 -Projects - 
+-Quiz App - https://heartfelt-travesseiro-d042e6.netlify.app/
 - Calculator - https://100-javascript-q.vercel.app/
 - Drum-Kit -https://drum-kit-by-suyogmuley.netlify.app/ and https://java-script30-mastery.vercel.app/ 
 - Advance CSS Image Gallary- https://advance-image-gallary-by-suyogmuley.netlify.app/
